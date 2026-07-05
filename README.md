@@ -1,1 +1,1 @@
-# luc-server-check
+# luc-server-setup
